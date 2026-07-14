@@ -15,13 +15,19 @@ I work on **efficient, adaptive, and reliable AI systems for resource-constraine
 
 ## Selected projects
 
+### 🧪 Edge-NPU Adaptivity (deployment measurement)
+
+Deployment characterization of adaptive vision inference on a commercial edge-NPU platform: first-invocation warmup, co-resident model switching, INT8 quantization format, and CPU–NPU output consistency. A per-tensor INT8 accuracy collapse is localized to the quantization pipeline (not the NPU backend) by reproducing the same failure on CPU and NPU paths. Public preprint with a reproducibility artifact.
+
+→ [edge-npu-adaptivity-artifact](https://github.com/Greeting233/edge-npu-adaptivity-artifact) · Zenodo DOI: [10.5281/zenodo.21298690](https://doi.org/10.5281/zenodo.21298690)
+
 ### 🔧 ScreenSense-Agent
 
 A suggestion-first, screen-aware research system for low-latency desktop context extraction and task-relevant LLM suggestion generation. Single-frame macOS pipeline:
 
 `screen capture → OCR → task discrimination → context construction → LLM suggestion → read-only overlay`
 
-Released as **v0.1.0** (MIT) with a Step 8B N=10 pilot manual evaluation. The pre-registered global first-runnable threshold was **not** met, but the pilot revealed a consistent outcome-level boundary: structured / traceback-style errors were more likely to produce useful suggestions, while non-structured terminal/file errors often fell to minimal context and generic fallback. **Suggestion-only by design**: no keyboard/mouse takeover, no permission bypass.
+Released as **v0.1.0** (MIT) with an N=10 pilot manual evaluation. The pre-registered global first-runnable threshold was **not** met, but the pilot revealed a consistent outcome-level boundary: structured / traceback-style errors were more likely to produce useful suggestions, while non-structured terminal/file errors often fell to minimal context and generic fallback. **Suggestion-only by design**: no keyboard/mouse takeover, no permission bypass.
 
 → [screensense-agent](https://github.com/Greeting233/screensense-agent)
 
