@@ -21,6 +21,12 @@ Deployment characterization of adaptive vision inference on a commercial edge-NP
 
 → [edge-npu-adaptivity-artifact](https://github.com/Greeting233/edge-npu-adaptivity-artifact) · Zenodo DOI: [10.5281/zenodo.21298690](https://doi.org/10.5281/zenodo.21298690)
 
+### 📊 UISP Adaptive Pruning
+
+Uncertainty-driven input-adaptive structured pruning for BN-based CNNs. Experiments on ResNet-18 / CIFAR-10 with N=10 seeds; statistical comparison against matched random pruning. Honest report of when the recursive confidence proxy degrades to identity mapping under static convolutional weights — a cross-domain boundary diagnostic, not a successful transfer claim.
+
+→ [uisp-adaptive-pruning](https://github.com/Greeting233/uisp-adaptive-pruning) (see `KEY_RESULTS.md` and `experiment_log.pdf`)
+
 ### 🔧 ScreenSense-Agent
 
 A suggestion-first, screen-aware research system for low-latency desktop context extraction and task-relevant LLM suggestion generation. Single-frame macOS pipeline:
@@ -31,12 +37,6 @@ Released as **v0.1.0** (MIT) with an N=10 pilot manual evaluation. The pre-regis
 
 → [screensense-agent](https://github.com/Greeting233/screensense-agent)
 
-### 📊 UISP Adaptive Pruning
-
-Uncertainty-driven input-adaptive structured pruning for BN-based CNNs. Experiments on ResNet-18 / CIFAR-10 with N=10 seeds; statistical comparison against matched random pruning. Honest report of when the recursive confidence proxy degrades to identity mapping under static convolutional weights — a cross-domain boundary diagnostic, not a successful transfer claim.
-
-→ [uisp-adaptive-pruning](https://github.com/Greeting233/uisp-adaptive-pruning) (see `KEY_RESULTS.md` and `experiment_log.pdf`)
-
 ### 📄 First-author publication
 
 *Comparative Study of Neural Architecture Search Methods: Random Search, RNN + Reinforcement Learning, and Evolutionary Algorithms on CIFAR-10*. IET Conference Proceedings / CONF-SPML 2025, EI Compendex.  
@@ -44,13 +44,10 @@ DOI: [10.1049/icp.2025.1009](https://doi.org/10.1049/icp.2025.1009)
 
 ## Ongoing work
 
-A first-author manuscript on runtime-adaptive neuro-fuzzy edge control with sampled-data stability analysis, in collaboration with the corresponding author, a researcher at the China Aerospace Science and Industry Corporation (CASIC). Being developed for a control / automation venue.
-
-## Current direction
-
-I am building a research portfolio around runtime-adaptive AI systems — systems that not only run models, but also decide what context to construct, how much computation to spend, and when a minimal pipeline is no longer sufficient.
+A first-author manuscript on runtime-adaptive neuro-fuzzy edge control with sampled-data stability analysis, in collaboration with the corresponding author. Being developed for a control / automation venue.
 
 ## Contact
 
 - 📧 liu.jiad [at] northeastern [dot] edu
 - 🔗 [LinkedIn: Jiadong Liu](https://www.linkedin.com/in/jiadongliu/)
+- 🆔 [ORCID: 0009-0008-5992-2065](https://orcid.org/0009-0008-5992-2065)
