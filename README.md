@@ -53,4 +53,4 @@ I am building a research portfolio around runtime-adaptive AI systems — system
 ## Contact
 
 - 📧 liu.jiad [at] northeastern [dot] edu
-- 🔗 [LinkedIn: Jiadong Liu](https://www.linkedin.com/in/JiadongLiu)
+- 🔗 [LinkedIn: Jiadong Liu](https://www.linkedin.com/in/jiadongliu/)
