@@ -44,7 +44,7 @@ DOI: [10.1049/icp.2025.1009](https://doi.org/10.1049/icp.2025.1009)
 
 ## Ongoing work
 
-A first-author manuscript on runtime-adaptive neuro-fuzzy edge control with sampled-data stability analysis, in collaboration with the corresponding author. Being developed for a control / automation venue.
+A first-author manuscript on runtime-adaptive neuro-fuzzy edge control with sampled-data stability analysis, in collaboration with the corresponding author, Xu Liu (China Aerospace Science and Industry Corporation, CASIC). Being developed for a control / automation venue.
 
 ## Contact
 
